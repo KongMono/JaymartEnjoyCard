@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- color -->
+    <color name="cPrimary">#E3222E</color>
+    <color name="cPrimaryDark">#a4151e</color>
+    <color name="cAccent">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bgHilightBox">#333333</color>
+    <color name="IndicatorsSelect">#FFC080</color>
+    <color name="IndicatorsUnSelect">#CCCCCC</color>
+    <color name="bgIndicators">#f4f4f4</color>
+
+    <!-- color -->
+    <color name="txt_head">#fe8200</color>
+    <color name="gray_text">#333333</color>
+    <color name="gray_text_all">#959595</color>
+    <color name="red">#f00</color>
+    <color name="white_1">#F5F5F5</color>
+    <color name="no_yellow">#ebebeb</color>
+    <color name="yellow">#efb41c</color>
+    <color name="black">#000000</color>
+    <color name="gray_3">#EAEAEA</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="gray_0">#77AFAFAF</color>
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="background_promotion">#FFE5E5E5</color>
+    <color name="txtLevelD">#999999</color>
+    <color name="dark_gray">#ffb3b3b3</color>
+
+    <color name="action_bar_bg">#222</color>
+    <color name="transparent">#00000000</color>
+    <color name="background">#f80</color>
+    <color name="fullscreen_control_overlay_color">#66000000</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="background_grid">#F1F1F1</color>
+    <color name="darkblue">#FF0099CC</color>
+    <color name="darkpurple">#FF9933CC</color>
+    <color name="darkgreen">#FF669900</color>
+    <color name="darkorange">#FFFF8800</color>
+
+    <integer-array name="rainbow">
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+    </integer-array>
+
+
+</resources>

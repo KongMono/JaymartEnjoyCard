@@ -1,0 +1,54 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="txt_toolbar_size">27sp</dimen>
+    <dimen name="txt_header_size">22dp</dimen>
+    <dimen name="textsize">20sp</dimen>
+    <dimen name="card_item_size">200dp</dimen>
+
+    <!-- SlidMenu -->
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+
+    <integer name="num_cols">1</integer>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="item_height_small">150dp</dimen>
+    <dimen name="item_height_tall">220dp</dimen>
+    <dimen name="gap">1dp</dimen>
+    <dimen name="divider_height">@dimen/gap</dimen>
+
+
+
+    <dimen name="poster_w_tumb">170dp</dimen>
+    <dimen name="poster_h_tumb">140dp</dimen>
+
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="margin_short">8dp</dimen>
+    <dimen name="margin_extra_short">4dp</dimen>
+
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <dimen name="toolbar_margin_start">72dp</dimen>
+    <dimen name="flexible_space_height">72dp</dimen>
+    <dimen name="flexible_space_image_height">240dp</dimen>
+    <dimen name="flexible_space_show_fab_offset">120dp</dimen>
+
+    <dimen name="parallax_image_height">180dp</dimen>
+    <dimen name="tab_height">48dp</dimen>
+
+    <dimen name="header_bar_height">72dp</dimen>
+    <dimen name="intersection_height">16dp</dimen>
+
+    <dimen name="sliding_slop">32dp</dimen>
+    <dimen name="sliding_overlay_blur_size">4dp</dimen>
+
+    <dimen name="banner_height">49dp</dimen>
+
+    <!-- Margin for restart button -->
+    <dimen name="restart_button_margin">16dp</dimen>
+
+</resources>
